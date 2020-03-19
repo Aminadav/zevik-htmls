@@ -1,1 +1,19 @@
-
+<script>
+  x=[
+  'https://chat.whatsapp.com/FtAJTPbtIvR02HSWo7Q3qG',
+'https://chat.whatsapp.com/C4H9a0QGfM318LiTU5vLX3',
+'https://chat.whatsapp.com/JaDiHvxy2mE5bVtN18eDSG',
+'https://chat.whatsapp.com/FyLFkwZFZH48AkZc199qye',
+'https://chat.whatsapp.com/GprisdYOJp9Cm3Gn0xajRG',
+'https://chat.whatsapp.com/GxKz41WahyB1syXJ8vXCcl',
+'https://chat.whatsapp.com/GcQKk7sNMFkI0HsmmSAeu4',
+'https://chat.whatsapp.com/LPgYkkPaqN7DUqR6kVQ69D',
+'https://chat.whatsapp.com/BQSGnq32b939rD7ep7ZB1Q',
+'https://chat.whatsapp.com/J77616CcTFq6mtxdL5Wkef',
+'https://chat.whatsapp.com/CzBxS0QahNg55bsfRshqmP',
+'https://chat.whatsapp.com/FFTs9niUuRG5oe7W79pnTH',
+'https://chat.whatsapp.com/FoULVDOj7Lg7SLU0xQ2ArY'
+    ]
+y=x[parseInt(Math.random()*x.length)]
+location.href=y;
+</script>
